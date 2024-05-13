@@ -7,4 +7,8 @@
     <RootNamespace>web_service</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Auth\CSS\" />
+  </ItemGroup>
+
 </Project>
